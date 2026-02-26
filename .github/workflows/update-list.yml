@@ -9,7 +9,6 @@ jobs:
   update-list:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
         with:
@@ -18,8 +17,11 @@ jobs:
 
       - name: Append new image entries to list.txt
         run: |
-          # 找出这次 PR 新增的图片文件
-          NEW_FILES=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'img1/**' 'img2/**' \
+          BASE=${{ github.event.pull_request.base.sha }}
+          HEAD=${{ github.event.pull_request.head.sha }}
+          echo "Comparing $BASE...$HEAD"
+
+          NEW_FILES=$(git diff --name-only --diff-filter=A "$BASE" "$HEAD" -- 'img1/' 'img2/' \
             | grep -E '\.(jpg|jpeg|png|webp)$' || true)
 
           if [ -z "$NEW_FILES" ]; then
@@ -30,7 +32,6 @@ jobs:
           echo "New files:"
           echo "$NEW_FILES"
 
-          # Append 到 list.txt（去重排序）
           echo "$NEW_FILES" >> list.txt
           sort -u list.txt -o list.txt
 
