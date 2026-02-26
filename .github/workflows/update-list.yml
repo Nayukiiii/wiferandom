@@ -22,7 +22,9 @@ jobs:
           echo "Comparing $BASE...$HEAD"
 
           NEW_FILES=$(git diff --name-only --diff-filter=A "$BASE" "$HEAD" -- 'img1/' 'img2/' \
-            | grep -E '\.(jpg|jpeg|png|webp)$' || true)
+            | grep -E '\.(jpg|jpeg|png|webp)$' \
+            | grep -v '\.placeholder_' \
+            || true)
 
           if [ -z "$NEW_FILES" ]; then
             echo "No new image files found, skipping."
