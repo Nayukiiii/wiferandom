@@ -1,0 +1,128 @@
+{
+    "need_prefix": {
+        "description": "启用触发前缀",
+        "type": "bool",
+        "hint": "启用后需要前缀来触发指令",
+        "default": false
+    },
+    "ntr_max": {
+        "description": "每日可牛老婆次数",
+        "type": "int",
+        "default": 3,
+        "hint": "每天可以牛老婆的次数"
+    },
+    "ntr_possibility": {
+        "description": "NTR 成功概率",
+        "type": "float",
+        "default": 0.2,
+        "hint": "牛老婆成功的概率，取值范围 [0, 1]"
+    },
+    "change_max_per_day": {
+        "description": "每天换老婆最大次数",
+        "type": "int",
+        "default": 3,
+        "hint": "每天最多更换老婆的次数"
+    },
+    "swap_max_per_day": {
+        "description": "交换老婆功能每天可使用次数",
+        "type": "int",
+        "default": 2,
+        "hint": "每天可以交换老婆的次数"
+    },
+    "reset_max_uses_per_day": {
+        "description": "重置功能每天可使用次数",
+        "type": "int",
+        "default": 3,
+        "hint": "每天可以使用重置功能的次数"
+    },
+    "reset_success_rate": {
+        "description": "重置功能成功率",
+        "type": "float",
+        "default": 0.3,
+        "hint": "重置功能的成功率，取值范围 [0, 1]"
+    },
+    "reset_mute_duration": {
+        "description": "重置失败时禁言时长（秒）",
+        "type": "int",
+        "default": 300,
+        "hint": "重置失败后禁言时长，单位秒"
+    },
+    "image_base_url": {
+        "description": "图片服务器基础 URL",
+        "type": "string",
+        "default": "https://raw.githubusercontent.com/Nayukiiii/wiferandom/main/",
+        "hint": "用于拼接图片链接的基础地址"
+    },
+    "image_list_url": {
+        "description": "图片列表 URL",
+        "type": "string",
+        "default": "https://raw.githubusercontent.com/Nayukiiii/wiferandom/main/list.txt",
+        "hint": "用于获取图片文件名列表的地址"
+    },
+    "jm_base_url": {
+        "description": "18Comic 域名",
+        "type": "string",
+        "default": "https://18comic.vip",
+        "hint": "18Comic 的访问地址，若主域名被墙可换镜像站，如 https://18comic.org"
+    },
+    "nh_base_url": {
+        "description": "NHentai 域名",
+        "type": "string",
+        "default": "https://nhentai.net",
+        "hint": "NHentai 访问地址，被墙可换镜像站"
+    },
+    "eh_member_id": {
+        "description": "E-Hentai 账号 ID",
+        "type": "string",
+        "default": "",
+        "hint": "登录 e-hentai.org 后从浏览器 Cookie 中获取 ipb_member_id 的值"
+    },
+    "eh_pass_hash": {
+        "description": "E-Hentai 密码 Hash",
+        "type": "string",
+        "default": "",
+        "hint": "登录 e-hentai.org 后从浏览器 Cookie 中获取 ipb_pass_hash 的值"
+    },
+    "nvidia_api_key": {
+        "description": "NVIDIA NIM API Key",
+        "type": "string",
+        "default": "nvapi-xxxxxxxxxxxxxxxxxxxxxxxx",
+        "hint": "用于 AI 翻译角色名/作品名，填入你的 NVIDIA NIM API Key"
+    },
+    "nvidia_model": {
+        "description": "NVIDIA 翻译模型",
+        "type": "string",
+        "default": "meta/llama-3.3-70b-instruct",
+        "hint": "用于翻译的模型名，推荐 meta/llama-3.3-70b-instruct"
+    },
+    "github_token": {
+        "description": "GitHub Personal Access Token",
+        "type": "string",
+        "default": "",
+        "hint": "用于创建 PR 的 GitHub Token，需要 repo 权限"
+    },
+    "github_repo": {
+        "description": "GitHub 图床仓库",
+        "type": "string",
+        "default": "Nayukiiii/wiferandom",
+        "hint": "图片仓库地址，格式：用户名/仓库名"
+    },
+    "github_branch": {
+        "description": "GitHub 仓库分支",
+        "type": "string",
+        "default": "main",
+        "hint": "图片仓库的目标分支"
+    },
+    "admin_qq": {
+        "description": "管理员 QQ 号",
+        "type": "string",
+        "default": "",
+        "hint": "用于接收「添老婆」审核请求的管理员 QQ 号"
+    },
+    "pixiv_refresh_token": {
+        "description": "Pixiv Refresh Token",
+        "type": "string",
+        "default": "",
+        "hint": "用于 Pixiv 拉图的 refresh_token，获取方法见 https://github.com/upbit/pixivpy"
+    }
+}
