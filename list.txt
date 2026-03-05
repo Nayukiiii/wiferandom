@@ -1,14 +1,4 @@
-img3/16bit的感动!秋里木叶.jpg
 img1/2.5次元的诱惑!橘美花莉.jpg
-img3/40原!黄豆粉.jpg
-img3/86 -不存在的战区-!奥古斯塔·芙蕾德利嘉·艾戴尔阿德勒.jpg
-img3/86 -不存在的战区-!芙拉蒂蕾娜·米利杰.jpeg
-img3/86 -不存在的战区-!芙拉蒂蕾娜·米利杰.jpg
-img3/9-nine!九条都.webp
-img3/9-nine!新海天.webp
-img3/9-nine!结城希亚.jpg
-img3/9-nine!苏菲缇雅.webp
-img3/9-nine!香坂春风.webp
 img1/AIR!神尾观铃.jpg
 img1/AI：梦境档案!冲浦瑞希.jpg
 img1/ATRI!亚托莉.jpg
@@ -1606,8 +1596,6 @@ img1/舰队Collection!衣阿华.png
 img1/舰队Collection!金刚.png
 img1/舰队Collection!高雄.png
 img1/舰队Collection!鹿岛.jpg
-img3/艾尔登法环!玛莉卡.jpg
-img3/艾尔登法环!米凯拉&托莉娜.jpg
 img1/花开伊吕波!松前绪花.jpeg
 img1/苍之彼方的四重奏!仓科明日香.jpg
 img1/苍之彼方的四重奏!市之濑莉佳.jpg
@@ -2357,6 +2345,7 @@ img2/月姬!巫净翡翠.jpg
 img2/月姬!希耶尔.jpg
 img2/月姬!爱尔奎特·布伦史塔德.png
 img2/月姬!远野秋叶.jpg
+img2/来自深渊!ファプタ.jpg
 img2/樱之诗!御樱禀.jpg
 img2/樱兰高校男公关部!藤冈春绯.jpg
 img2/樱花庄的宠物女孩!椎名真白.jpg
@@ -2508,3 +2497,15 @@ img2/霞流宝石心!爱莉安娜·哈特贝尔.png
 img2/霞流宝石心!贝尔卡·特莱尔特.png
 img2/青鸟!玛丽·哈卡.jpg
 img2/高考恋爱一百天!木馨.jpg
+img3/16bit的感动!秋里木叶.jpg
+img3/40原!黄豆粉.jpg
+img3/86 -不存在的战区-!奥古斯塔·芙蕾德利嘉·艾戴尔阿德勒.jpg
+img3/86 -不存在的战区-!芙拉蒂蕾娜·米利杰.jpeg
+img3/86 -不存在的战区-!芙拉蒂蕾娜·米利杰.jpg
+img3/9-nine!九条都.webp
+img3/9-nine!新海天.webp
+img3/9-nine!结城希亚.jpg
+img3/9-nine!苏菲缇雅.webp
+img3/9-nine!香坂春风.webp
+img3/艾尔登法环!玛莉卡.jpg
+img3/艾尔登法环!米凯拉&托莉娜.jpg
