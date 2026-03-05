@@ -419,7 +419,7 @@ img1/anemoi!淡雪阳彩.webp
 img1/anemoi!白渡小咏.webp
 img1/anemoi!辻仓朱比华.webp
 img1/anemoi!速川六花.webp
-img1/eden_!エリカ.jpg
+img1/eden_!エリカ.jpeg
 img1/grok!ani.jpg
 img1/hiten!神乐坂玲奈.jpg
 img1/ke-ta!白浜初香.jpg
