@@ -875,10 +875,10 @@ img1/国王游戏!松本里绪菜.png
 img1/国王的求婚!不夜城瑠璃.jpg
 img1/国王的求婚!久远崎彩祸.jpg
 img1/圣诞之吻!绚辻词.jpg
-img1/圣诞之吻ss!中多紗江.jpg
-img1/圣诞之吻ss!森島はるか.jpg
 img1/圣诞之吻ss!七咲逢.jpg
+img1/圣诞之吻ss!中多紗江.jpg
 img1/圣诞之吻ss!棚町薫.jpg
+img1/圣诞之吻ss!森島はるか.jpg
 img1/地狱乐!山田浅卫门佐切.jpg
 img1/地狱乐!杠.jpg
 img1/地狱少女!阎魔爱.jpeg
@@ -2038,6 +2038,7 @@ img2/仰望夜空的星辰!日下部来露娜.png
 img2/仰望夜空的星辰!白鸟织姬.png
 img2/佐贺偶像是传奇!绀野纯子.jpg
 img2/侦探已经死了!谢丝塔.jpg
+img2/偶像大师!如月千早.jpg
 img2/原神!七七.jpg
 img2/原神!丽莎.jpeg
 img2/原神!久岐忍.jpg
