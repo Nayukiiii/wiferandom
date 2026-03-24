@@ -2096,10 +2096,10 @@ img2/圣诞之吻ss!桜井梨穂子.jpg
 img2/在地下城寻求邂逅是否搞错了什么!艾丝·华伦斯坦.jpg
 img2/在地下城寻求邂逅是否搞错了什么!赫斯缇雅.png
 img2/在魔王城说晚安!栖夜莉丝.jpg
-img2/地球Online!曾婧.jpg
-img2/地球Online!郑奕.jpg
 img2/地球Online!宁隽.jpg
 img2/地球Online!宁隽（男娘版）.jpg
+img2/地球Online!曾婧.jpg
+img2/地球Online!郑奕.jpg
 img2/夏日口袋!䌷文德斯.jpg
 img2/夏日口袋!久岛鸥.jpg
 img2/夏日口袋!加藤羽未.jpg
@@ -2515,6 +2515,7 @@ img3/9-nine!结城希亚.jpg
 img3/9-nine!苏菲缇雅.webp
 img3/9-nine!香坂春风.webp
 img3/Faltal Frame!雛咲深羽.webp
+img3/名探偵プリキュア!!森亜るるか／キュアアルカナ・シャドウ.jpg
 img3/小白兔电商!兔牙.jpg
 img3/熊出没!大象奶奶.jpg
 img3/艾尔登法环!玛莉卡.jpg
