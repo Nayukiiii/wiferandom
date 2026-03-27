@@ -2099,9 +2099,9 @@ img2/在魔王城说晚安!栖夜莉丝.jpg
 img2/地球Online!宁隽.jpg
 img2/地球Online!宁隽（男娘版）.jpg
 img2/地球Online!曾婧.jpg
-img2/地球Online!郑奕.jpg
 img2/地球Online!朱昂之.jpg
 img2/地球Online!朱昂之_1.jpg
+img2/地球Online!郑奕.jpg
 img2/夏日口袋!䌷文德斯.jpg
 img2/夏日口袋!久岛鸥.jpg
 img2/夏日口袋!加藤羽未.jpg
@@ -2359,6 +2359,7 @@ img2/永不枯萎的世界与终结之花!春琉.jpg
 img2/永不枯萎的世界与终结之花!琴濑.jpg
 img2/永不枯萎的世界与终结之花!莲.jpg
 img2/永不枯萎的世界与终结之花!雪菜.jpg
+img2/洛克王国!水蓝蓝.jpg
 img2/游乐场少女的异文化交流!莉莉·贝卡.jpg
 img2/游戏人生!休比·多拉.jpg
 img2/游戏人生!克拉米·杰尔.jpg
