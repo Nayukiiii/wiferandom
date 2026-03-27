@@ -1997,8 +1997,8 @@ img1/龙王的工作!夜叉神天衣.jpg
 img1/龙王的工作!空银子.jpeg
 img1/龙王的工作!雏鹤爱.jpg
 img1/龙王的工作!雏鹤爱.png
-img2/VOCALOID!可不.jpg
 img2/BanG Dream! 2nd Season!玉出ちゆ.jpg
+img2/VOCALOID!可不.jpg
 img2/eden_!シオン.jpeg
 img2/一拳超人!地狱的吹雪.jpg
 img2/一拳超人!龙卷.jpg
@@ -2373,6 +2373,7 @@ img2/游戏人生!菲尔·尼尔巴连.jpg
 img2/游戏王!天魔之声选姬.jpg
 img2/游戏王!白银城的迷宫主·拉比丽斯.jpg
 img2/游戏王!黑魔导女孩.jpg
+img2/火の鳥!ヒミコ（火の鳥）.jpg
 img2/灼眼的夏娜!吉田一美.jpg
 img2/灼眼的夏娜!夏娜.jpg
 img2/炎炎消防队!爱丽丝.jpg
