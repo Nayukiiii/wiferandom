@@ -1999,7 +1999,7 @@ img1/龙王的工作!雏鹤爱.jpg
 img1/龙王的工作!雏鹤爱.png
 img2/BanG Dream! 2nd Season!玉出ちゆ.jpg
 img2/VOCALOID!可不.jpg
-img2/bangdream!珠手知由.jpg
+img2/bangdream!今井莉莎.webp
 img2/eden_!シオン.jpeg
 img2/一拳超人!地狱的吹雪.jpg
 img2/一拳超人!龙卷.jpg
@@ -2520,8 +2520,10 @@ img3/9-nine!新海天.webp
 img3/9-nine!结城希亚.jpg
 img3/9-nine!苏菲缇雅.webp
 img3/9-nine!香坂春风.webp
+img3/BanG Dream!!ロック _ 朝日六花.jpg
 img3/BanG Dream!!弦巻こころ.webp
 img3/Faltal Frame!雛咲深羽.webp
+img3/bangdream!丸山彩.webp
 img3/maimai!ソルト.jpg
 img3/名探偵プリキュア!!森亜るるか／キュアアルカナ・シャドウ.jpg
 img3/小白兔电商!兔牙.jpg
