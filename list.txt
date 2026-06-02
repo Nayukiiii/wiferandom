@@ -869,6 +869,7 @@ img1/圣诞之吻ss!七咲逢.jpg
 img1/圣诞之吻ss!中多紗江.jpg
 img1/圣诞之吻ss!棚町薫.png
 img1/圣诞之吻ss!森島はるか.jpg
+img1/圣诞之吻ss!森島はるか.png
 img1/地狱乐!山田浅卫门佐切.jpg
 img1/地狱乐!杠.jpg
 img1/地狱少女!阎魔爱.jpeg
@@ -1282,6 +1283,7 @@ img1/机动战士高达闪光的哈萨维!琪琪·安达露西亚.jpg
 img1/机器人笔记!神代芙拉.jpg
 img1/机器人笔记!行舟爱理.jpg
 img1/机巧少女不会受伤!夜夜.jpeg
+img1/来自深渊!ファプタ.jpg
 img1/来自深渊!娜娜奇.jpg
 img1/来自风平浪静的明天!久沼纱友.png
 img1/来自风平浪静的明天!向井户爱花.png
@@ -1891,6 +1893,7 @@ img1/青春猪头少年不会梦到兔女郎学姐!梓川花枫.png
 img1/青春猪头少年不会梦到兔女郎学姐!樱岛麻衣.jpg
 img1/青春猪头少年不会梦到兔女郎学姐!樱岛麻衣.png
 img1/青春猪头少年不会梦到兔女郎学姐!牧之原翔子.jpg
+img1/青鸟!玛丽·哈卡.png
 img1/靠死亡游戏混饭吃!幽鬼.jpg
 img1/飞翔的魔女!仓本千夏.png
 img1/飞翔的魔女!木幡真琴.jpg
@@ -2001,6 +2004,7 @@ img2/BanG Dream! 2nd Season!玉出ちゆ.jpg
 img2/BanG Dream!!氷川紗夜.png
 img2/VOCALOID!可不.jpg
 img2/bangdream!今井莉莎.webp
+img2/bangdream!珠手知由.jpg
 img2/eden_!シオン.jpeg
 img2/一拳超人!地狱的吹雪.jpg
 img2/一拳超人!龙卷.jpg
@@ -2097,6 +2101,7 @@ img2/只有神知道的世界!鲇川天理.jpg
 img2/只狼!永真.jpg
 img2/咒术回战!禅院真希.jpg
 img2/喜欢的人忘记戴眼镜了!三重爱.jpg
+img2/嘟嘟脸恶作剧!버터.jpg
 img2/圣诞之吻ss!桜井梨穂子.jpg
 img2/在地下城寻求邂逅是否搞错了什么!艾丝·华伦斯坦.jpg
 img2/在地下城寻求邂逅是否搞错了什么!赫斯缇雅.png
@@ -2517,9 +2522,10 @@ img2/霞流宝石心!梅尔·艾什礼佩克.png
 img2/霞流宝石心!爱莉安娜·哈特贝尔.png
 img2/霞流宝石心!贝尔卡·特莱尔特.png
 img2/青鸟!玛丽·哈卡.jpg
+img2/青鸟!玛丽·哈卡.png
 img2/高考恋爱一百天!木馨.jpg
-img2/黑礁!巴拉莱卡.png
 img2/黑礁!仙华.png
+img2/黑礁!巴拉莱卡.png
 img3/16bit的感动!秋里木叶.jpg
 img3/40原!黄豆粉.jpg
 img3/86 -不存在的战区-!奥古斯塔·芙蕾德利嘉·艾戴尔阿德勒.jpg
@@ -2535,6 +2541,7 @@ img3/BanG Dream!!弦巻こころ.webp
 img3/Faltal Frame!雛咲深羽.webp
 img3/OROCHI!稲姫.jpg
 img3/bangdream!丸山彩.webp
+img3/bangdream!白金燐子.jpg
 img3/maimai!ソルト.jpg
 img3/名探偵プリキュア!!森亜るるか／キュアアルカナ・シャドウ.jpg
 img3/哀鸿：城破十日记!林翩翩.jpg
