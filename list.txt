@@ -1998,6 +1998,7 @@ img1/龙王的工作!空银子.jpeg
 img1/龙王的工作!雏鹤爱.jpg
 img1/龙王的工作!雏鹤爱.png
 img2/BanG Dream! 2nd Season!玉出ちゆ.jpg
+img2/BanG Dream!!氷川紗夜.png
 img2/VOCALOID!可不.jpg
 img2/bangdream!今井莉莎.webp
 img2/eden_!シオン.jpeg
@@ -2455,6 +2456,7 @@ img2/罪恶装备!布莉姬.jpg
 img2/罪恶装备!拉姆蕾萨尔.jpg
 img2/罪恶装备!米莉亚.jpg
 img2/罪恶装备!艾尔菲尔特.jpg
+img2/美好的每一天!水上由岐.jpg
 img2/英雄联盟!凯特琳.jpg
 img2/英雄联盟!阿璃.jpg
 img2/药屋少女的呢喃!子翠.jpg
@@ -2481,6 +2483,7 @@ img2/贤惠幼妻仙狐小姐!仙狐.jpg
 img2/贤惠幼妻仙狐小姐!仙狐_2.jpg
 img2/贤惠幼妻仙狐小姐!仙狐_3.jpg
 img2/贤惠幼妻仙狐小姐!仙狐小姐.jpg
+img2/赛马娘!爱如往昔.png
 img2/转生成蜘蛛又怎样!白织.jpg
 img2/转生王女与天才千金的魔法革命!尤菲莉亚·玛泽塔.png
 img2/转生王女与天才千金的魔法革命!艾妮丝菲亚·温·帕雷提亚.png
@@ -2495,6 +2498,7 @@ img2/邪神与厨二病少女!花园百合铃.jpg
 img2/邪神与厨二病少女!邪神酱.jpg
 img2/重启咲良田!春埼美空.png
 img2/重启咲良田!相麻堇.jpg
+img2/銀河特急!チハル.png
 img2/银色，遥远!名白椛.png
 img2/银色，遥远!如月瑞羽.png
 img2/银色，遥远!新见雪月.png
@@ -2513,6 +2517,7 @@ img2/霞流宝石心!贝尔卡·特莱尔特.png
 img2/青鸟!玛丽·哈卡.jpg
 img2/高考恋爱一百天!木馨.jpg
 img2/黑礁!巴拉莱卡.png
+img2/黑礁!仙华.png
 img3/16bit的感动!秋里木叶.jpg
 img3/40原!黄豆粉.jpg
 img3/86 -不存在的战区-!奥古斯塔·芙蕾德利嘉·艾戴尔阿德勒.jpg
@@ -2526,6 +2531,7 @@ img3/9-nine!香坂春风.webp
 img3/BanG Dream!!ロック _ 朝日六花.jpg
 img3/BanG Dream!!弦巻こころ.webp
 img3/Faltal Frame!雛咲深羽.webp
+img3/OROCHI!稲姫.jpg
 img3/bangdream!丸山彩.webp
 img3/maimai!ソルト.jpg
 img3/名探偵プリキュア!!森亜るるか／キュアアルカナ・シャドウ.jpg
@@ -2539,3 +2545,4 @@ img3/艾尔登法环!米凯拉&托莉娜.jpg
 img3/超次元恋人!崩月水仙.jpg
 img3/車輪の国、向日葵の少女!日向 夏咲.webp
 img3/饿狼传说!双葉ほたる.jpg
+img3/鸣潮!达妮娅.png
